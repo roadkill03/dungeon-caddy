@@ -27,6 +27,7 @@ Components
 - Range(value)
 - Magic(value, alignment)
 - Craft(combine, target)
+- Voice(dialect)
 
 Entities
 --------
@@ -39,3 +40,4 @@ Entities
 - Sword(Position, Sprite, Damage)
 - Hammer(Position, Sprite, Damage)
 - Wand(Position, Sprite, Damage, Magic, Range)
+- MagicSword(Position, Sprite, Voice, Magic, Damage)
